@@ -1,4 +1,4 @@
-# This uses Python with a simulated temperature sensor (such as DHT11/DHT22) and a Relay module to control a fan or AC.
+## This uses Python with a simulated temperature sensor (such as DHT11/DHT22) and a Relay module to control a fan or AC.
 
 ## How it works:
 - get_temperature() — Here I simulated the temperature with random numbers, but in real life you’d connect a DHT11, DHT22, or other temperature sensor and read from it.
