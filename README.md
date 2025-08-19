@@ -7,4 +7,5 @@
 💡 If you want to run it on Raspberry Pi or Arduino:
 • Replace get_temperature() with actual sensor reading code.
 • Replace the print() commands for ON/OFF with GPIO commands to control a relay module.
-
+## Support Me
+If you find this project useful, you can support me on [ko-fi.com](https://www.ko-fi.com/codesnack).
